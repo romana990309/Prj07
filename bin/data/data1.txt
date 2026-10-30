@@ -16,7 +16,7 @@ num,name,kor,eng,mat
 //      num,name,kor,eng,mat,tot,avg,grade
 
 // 2번 ========================================
-/* csv format- commprivate String seperator variable
+/* csv format- comma seperator variable
 1,P01,10,1250.0
 2,P02,15,2000.0
 3,P03,30,1500.0
@@ -35,7 +35,7 @@ num,name,kor,eng,mat
 // 3번 =========================================
 
 //입력 1줄 -> 결과 1줄
-//입력datprivate String : 사번,이름,입사일,월급,부서번호
+//입력dat : 사번,이름,입사일,월급,부서번호
 //출력     : 사번,이름,입사일,월급,보너스,수령액,부서명
 
 //금액은 소수이하 두자리로 반올림
